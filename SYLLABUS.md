@@ -16,7 +16,7 @@ Office hours: TBD after poll
 ## Teaching assistant
 Andrew Huang
 
-Office: 214 Atmospheric Sciences Building
+Office: 213 Atmospheric Sciences Building
 
 E-mail: [ahuang11@illinois.edu](mailto:ahuang11@illinois.edu)
 
