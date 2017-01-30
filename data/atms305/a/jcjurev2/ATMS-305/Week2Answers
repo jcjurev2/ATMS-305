@@ -1,1 +1,97 @@
 
+ 658  jcjurev2@keeling ATMS-305: $ history
+  659      1  qlogin
+  660      2  /data/atms305/a/netID/ATMS-305/Week2Answers
+  661      3  Week2Answers.txt
+  662      4  q
+  663      5  ls
+  664      6  git clone https://github.com/jcjurev2/ATMS-305.git
+  665      7  git remote add upstream https://github.com/swnesbitt/ATMS-305.git
+  666      8  cd ATMS-305/
+  667      9  pwd /data/atms305/a/netID/ATMS-305
+  668     10  git remote add upstream https://github.com/swnesbitt/ATMS-305.git
+  669     11  git fetch upstream
+  670     12  git checkout master
+  671     13  gut merge upstream/master
+  672     14  pic /data/atms/a/jcjurev2/ATMS-/.git
+  673     15  git merge upstream/master
+  674     16  pico /data/atms305/a/jcjurev2/ATMS-305/.git/config
+  675     17  /data/atms/a/jcjurev2/ATMS-305/.git
+  676     18  cd /data/atms305/a/jcjurev2/ATMOS-305
+  677     19  cd ..
+  678     20  pico /data/atms/a/jcjurev2/ATMS-305/.git/config
+  679     21  cd /data/atms305/a/jcjurev2/
+  680     22  /data/atms305/a/jcjurev2: ls
+  681     23  cd /data/atms305/a/jcjurev2/
+  682     24  /data/atms305/a/jcjurev2: ls
+  683     25  ls
+  684     26  cd /data/atms305/a/jcjurev2/
+  685     27  ls
+  686     28  git clone https://github.com/jcjurev2/ATMS-305.git
+  687     29  ls
+  688     30  git remote add upstream https://github.com/swnesbitt/ATMS-305.git
+  689     31  cd ATMS-305/
+  690     32  pwd
+  691     33  git remote add upstream https://github.com/swnesbitt/ATMS-305.git
+  692     34  git fetch upstream
+  693     35  git checkout master
+  694     36  git merge upstream/master
+  695     37  pico /data/atms305/a/jcjurev2/ATMS-305/.git/config
+  696     38  ls
+  697     39  nano .git/config
+  698     40  ls
+  699     41  cd ..
+  700     42  ls
+  701     43  cd ..
+  702     44  ls
+  703     45  cd jcjurev2/
+  704     46  ls
+  705     47  cd ATMS-305/
+  706     48  ls
+  707     49  git add –A
+  708     50  git commit –m “Update due to errors from snesbitt;)"▒
+  709     51  git commit –m “Update due to errors from snesbitt :D”
+  710     52  git push origin master
+  711     53  export SSH_ASKPASS=""
+  712     54  git push origin master
+  713     55  export SSH_ASKPASS=""
+  714     56  history
+  715  git add –A
+  716  history
+  717  git add -A
+  718  git commit –m “Update due to errors from snesbitt :D”
+  719  fatal: Not a git repository (or any of the parent directories): .git
+  720  history
+  721  ls
+  722  cd at
+  723  cd ATMS-305/
+  724  ls
+  725  cd Week2-Tuesday/
+  726  ls
+  727  cd ~
+  728  history
+jcjurev2@keeling ~: $ cd /
+jcjurev2@keeling /: $ cd etc
+jcjurev2@keeling etc: $ cd /data/atms305/a/jcjurev2/ATMS-305
+jcjurev2@keeling ATMS-305: $ ls
+LICENSE  README.md  SYLLABUS.md  Week2-Thursday  Week2-Tuesday  data
+jcjurev2@keeling ATMS-305: $ git add -A
+jcjurev2@keeling ATMS-305: $ git commit -m "first commit to github"
+# On branch master
+# Your branch is ahead of 'origin/master' by 35 commits.
+#
+nothing to commit (working directory clean)
+jcjurev2@keeling ATMS-305: $ export SSH_ASKPASS=""
+jcjurev2@keeling ATMS-305: $ git push origin master
+Password:
+Counting objects: 130, done.
+Delta compression using up to 24 threads.
+Compressing objects: 100% (73/73), done.
+Writing objects: 100% (126/126), 1.97 MiB, done.
+Total 126 (delta 52), reused 123 (delta 51)
+remote: Resolving deltas: 100% (52/52), completed with 1 local objects.
+To https://jcjurev2@github.com/jcjurev2/ATMS-305.git
+   44e6922..8f0339e  master -> master
+jcjurev2@keeling ATMS-305: $ ^C
+jcjurev2@keeling ATMS-305: $ pico week2answers.txt
+jcjurev2@keeling ATMS-305: $ ^C
